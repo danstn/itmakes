@@ -1,0 +1,2 @@
+# itmakes
+Simple Makefile template
